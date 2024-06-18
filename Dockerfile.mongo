@@ -1,0 +1,7 @@
+
+
+from mongo:7.0
+
+run mkdir -p /projectsDB
+run mkdir -p /projectsDB/data
+run mkdir -p /etc/mongo
